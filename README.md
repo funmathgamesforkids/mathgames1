@@ -1,7 +1,6 @@
-# Welcome to GBA Emulator
+# Welcome to my math game site!
+This website has all the classics, like Addition Wars, and Multiplication Kart: Super Subtractiom
 
-GBA Emulator is a free, online GBA emulator! I have 50+ Games to play!
+# password locked
 
-# GBA Emulator Website
-
-https://theclashman2.github.io/GBA-Emulator/
+The site is password locked. For more information, join https://discord.gg/KXSNzHuP9X.
