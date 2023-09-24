@@ -2,6 +2,6 @@
 This website has all the classics, like Addition Wars, and Multiplication Kart: Super Subtraction!
 https://funmathgamesforkids.github.io/mathgames1/
 
-# password locked
+# Password Lock
 
 The site is password locked. For more information, join https://discord.gg/KXSNzHuP9X.
